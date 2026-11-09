@@ -13,3 +13,5 @@
 | 2026-11-09T14:46Z | 1. ТЭО производственной деятельности | protocols/w1_protocol_checks.py | `6da772139879340ac7499722d26a97cd20fffab74082a1cb3b38eccb3295669a` |
 | 2026-11-09T14:46Z | 1. ТЭО производственной деятельности | protocols/w1_pilot_devset.py | `309e6265ea3cf3aae3ba2a9fbaec69b1904feb5301ec85ad66f717567d973cb8` |
 | 2026-11-09T14:46Z | 1. ТЭО (данные, собраны 09.11 до хэша) | data/raw/04_award_sample_infra.csv | `b155a420af50f1803bab619ed79b4ee37354226116d8ed4ee957b0d8f4d9ad5b` |
+| 2026-11-09T15:04Z | 3. ИТ в учёте и налогообложении | protocols/w3_protocol.md (v3.1) | `72317b7c721b0540a40bd14f5a0804d6e53547dcd836a318804f46d53f493dd8` |
+| 2026-11-09T15:04Z | 3. ИТ в учёте и налогообложении | protocols/w3_protocol_checks.py | `b185b75bbfd6172dae9c09c429e92859dad41cc18e14accfea7a223d550ac6fe` |
